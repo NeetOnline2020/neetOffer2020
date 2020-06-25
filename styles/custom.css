@@ -1,9 +1,21 @@
 #headerTxt{
-    margin-top: 2%;
+    margin-top: 0%;
     background-color: #000080;
     color: white;
     font-weight: bold;
-    font-size: 30px;
+}
+.fontSize
+{
+    font-size: 4rem;
+}
+.TimeSize
+{
+    font-size: 8rem;
+}
+.ListMargin
+{
+    margin-bottom: 5rem;
+
 }
 
 #secondTxt{
@@ -17,7 +29,7 @@
 }
 
 #time{
-    margin-top: 15%;
+    margin-top: 7%;
     margin-left: 0%;
     margin-right: 0;
     color:#c2c2a3;
@@ -86,7 +98,7 @@
 
 #btn-xl {
     padding: 10px 20px;
-    font-size: 50px;
+    font-size: 7rem;
     border-radius: 10px;
 }
 
