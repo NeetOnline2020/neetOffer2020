@@ -1,0 +1,85 @@
+#headerTxt{
+    margin-top: 2%;
+    background-color: #000080;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#secondTxt{
+    margin-top: 4%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #0040ff;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#time{
+    margin-top: 4%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color:#c2c2a3;
+    font-weight: bold;
+    font-size: 100px;
+}
+
+
+.centerTxt{
+    text-align: center;
+}
+
+.rowMargin
+{
+    margin-top: 2%;
+}
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+.Facebook
+  {
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+.benefits
+{
+    color: yellow;
+}
+
+.callUs
+{
+    background-color: #e68a00;
+    text-align: center;
+}
+
+.Offer
+{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.ExtraSpace
+{
+    margin-bottom: 10%;
+}
+
+.AllModel
+{
+    /* margin-left: 20%;
+    margin-right: 20%; */
+    border-radius: 1rem;
+    margin-top: 4%;
+    background-color: #0040ff;
+    color:#f9fd00;
+    font-weight: bold;
+    font-size: 30px;
+}
