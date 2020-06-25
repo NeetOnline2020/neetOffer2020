@@ -8,8 +8,8 @@
 
 #secondTxt{
     margin-top: 4%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 0%;
+    margin-right: 0%;
     background-color: #0040ff;
     color: white;
     font-weight: bold;
@@ -37,8 +37,8 @@
 /* Centered text */
 .centered {
     position: absolute;
-    top: 35%;
-    left: 50%;
+    top: 34%;
+    left: 52%;
     transform: translate(-50%, -50%);
     color: red;
     font-weight: bold;
@@ -82,4 +82,10 @@
     color:#f9fd00;
     font-weight: bold;
     font-size: 30px;
+}
+
+#btn-xl {
+    padding: 10px 20px;
+    font-size: 50px;
+    border-radius: 10px;
 }
