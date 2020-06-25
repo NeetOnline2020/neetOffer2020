@@ -38,7 +38,7 @@
 .centered {
     position: absolute;
     top: 34%;
-    left: 52%;
+    left: 50%;
     transform: translate(-50%, -50%);
     color: red;
     font-weight: bold;
@@ -88,4 +88,13 @@
     padding: 10px 20px;
     font-size: 50px;
     border-radius: 10px;
+}
+
+.Red{
+    color: red;
+}
+
+.Blue
+{
+    color:blue;
 }
