@@ -135,3 +135,18 @@
     margin-left: 3%;
     margin-right: 3%;
 }
+.contact
+{
+    font-size: 3rem;
+}
+
+#footerTxt
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #e68a00;
+    color: white;
+    font-weight: bold;
+    margin-left: 3%;
+    margin-right: 3%;
+}
