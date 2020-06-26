@@ -8,13 +8,17 @@
 {
     font-size: 4rem;
 }
+.fontBenefits
+{
+    font-size: 3rem;
+}
 .TimeSize
 {
     font-size: 8rem;
 }
 .ListMargin
 {
-    margin-bottom: 5rem;
+    margin-bottom: 2rem;
 
 }
 
@@ -109,4 +113,25 @@
 .Blue
 {
     color:blue;
+}
+
+.Network
+{
+    text-align: right;
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+#Net
+{
+    font-size: 3rem;
+    font-weight: bold;
+    margin-left: -2%;
+    pointer-events: none;    
+}
+
+.TopNet
+{
+    margin-left: 3%;
+    margin-right: 3%;
 }
